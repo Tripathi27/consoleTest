@@ -1,0 +1,2 @@
+C:\Users\Nineleaps-user\source\repos\TestConsoleDead\TestConsoleDead.Wasm\obj\Debug\netstandard2.0\TestConsoleDead.Wasm.csprojAssemblyReference.cache
+C:\Users\Nineleaps-user\source\repos\TestConsoleDead\TestConsoleDead.Wasm\obj\Debug\netstandard2.0\TestConsoleDead.Wasm.csproj.CoreCompileInputs.cache
